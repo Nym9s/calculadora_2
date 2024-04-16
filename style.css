@@ -13,16 +13,16 @@ body {
   
   .button {
     background-color: #4caf50;
-    font: #4caf50; /* verde */
+    font: #4caf50; 
     border: none;
     padding: 20px;
     text-align: center;
     font-size: 20px;
-    border-radius: 50px; /* bordas arredondadas */
+    border-radius: 50px; 
   }
   
   .button:hover {
-    background-color: #555;
+    background-color: rgb(10, 10, 10);
   }
   
   .display {
@@ -36,6 +36,7 @@ body {
        border: solid, black, 200px, tes;
        text-align: center;
        align-items: center;
+       align-content: center;
   
       }
   
